@@ -1,0 +1,17 @@
+body{
+    font-family:'Roboto','sans-serif';
+}
+
+h1{text-align:center;}
+h3{margin-bottom:0;}
+
+.ligne{ /* pour avoir 6 articles par ligne */
+    text-align: center;
+    float: left;
+    width: 16%;
+}
+
+.imgamiibo{
+    width:50%;
+}
+
