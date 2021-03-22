@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
 </head>
 <body>
-<form action="FLORESTAL_Bryan_TD10.php" method="post" enctype="multipart/form-data">
+<form action="index.php" method="post" enctype="multipart/form-data">
 <h1>Vente d'amiibos en ligne</h1> 
 <h2>Vous souhaitez ajouter un article ?</h1>
 <h3>Nom : </h3><input type="text" name="titre" />
